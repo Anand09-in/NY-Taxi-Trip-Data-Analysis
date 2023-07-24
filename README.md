@@ -14,7 +14,7 @@ Google Cloud Platform
 2. Compute Instance 
 3. BigQuery
 
--BI Tool - Power BI
+- BI Tool - Power BI
 
 
 
