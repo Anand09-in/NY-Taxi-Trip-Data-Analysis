@@ -4,8 +4,7 @@
 
 The goal of this project is to perform data analytics on Taxi Trip data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
-## Architecture 
-<img src="architecture.jpg">
+
 
 ## Technology Used
 - Programming Language - Python
