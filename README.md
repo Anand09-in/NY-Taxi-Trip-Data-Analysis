@@ -13,7 +13,8 @@ Google Cloud Platform
 1. Google Storage
 2. Compute Instance 
 3. BigQuery
-4. Looker Studio
+
+-BI Tool - Power BI
 
 
 
