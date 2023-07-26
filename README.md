@@ -1,4 +1,4 @@
-# Taxi Trip Data Analytics | Modern Data Engineering GCP Project
+# Taxi Trip Data Analytics | Data Analysis Project
 
 ## Introduction
 
