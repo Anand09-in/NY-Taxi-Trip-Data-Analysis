@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Taxi Trip data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on Taxi Trip data using various tools and technologies, including  Python, SQL, Data Pipeline Tool, BigQuery, and Power BI.
 
 
 
@@ -11,8 +11,7 @@ The goal of this project is to perform data analytics on Taxi Trip data using va
 
 Google Cloud Platform
 1. Google Storage
-2. Compute Instance 
-3. BigQuery
+2. BigQuery
 
 - BI Tool - Power BI
 
